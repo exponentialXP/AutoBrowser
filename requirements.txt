@@ -1,0 +1,8 @@
+playwright
+google-generativeai
+fastapi
+uvicorn
+pywebview
+python-dotenv
+Pillow
+websockets
